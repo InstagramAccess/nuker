@@ -335,7 +335,7 @@ async def help1(ctx):
   await ctx.message.delete()
   e = discord.Embed(colour=discord.Colour.from_rgb(128,0,128), description="⸼ 𝐀𝐥𝐥 𝐨𝐟 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝𝐬 ⸼", timestamp=ctx.message.created_at)
  
-  e.set_author(name="Vlone Selfbot From 11lone", icon_url=ctx.author.avatar_url)
+  e.set_author(name="Vlone Selfbot From 11lone & 1lone", icon_url=ctx.author.avatar_url)
   e.add_field(name="**𝐏𝐢𝐧𝐠 🧪**", value="𝕾𝖍𝖔𝖜𝖘 𝖙𝖍𝖊 𝖇𝖔𝖙’𝖘 𝖑𝖆𝖙𝖊𝖓𝖈𝖞.", inline=False)
   e.add_field(name="**𝐏𝐮𝐫𝐠𝐞 🧪**", value="𝕻𝖚𝖗𝖌𝖊𝖘 𝖌𝖎𝖛𝖊𝖓 𝖆𝖒𝖔𝖚𝖓𝖙 𝖔𝖋 𝖒𝖊𝖘𝖘𝖆𝖌𝖊𝖘.", inline=False)
   e.add_field(name="**𝐒𝐩𝐚𝐦 🧪**", value="𝕾𝖕𝖆𝖒𝖘 𝖙𝖍𝖊 𝖌𝖎𝖛𝖊𝖓 𝖒𝖊𝖘𝖘𝖆𝖌𝖊.", inline=False)
