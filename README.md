@@ -1,3 +1,3 @@
 # VLONE SELF BOT
 ez for wizzing & trolling friends
-still adding cmds check back daily
+self bot are depreciated so i ain developing this 
